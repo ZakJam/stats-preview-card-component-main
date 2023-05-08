@@ -27,7 +27,7 @@ margin-top: 10vh;
 
 
 .img {
-background: url(/images/image-header-mobile.jpg);
+background: url(images/image-header-mobile.jpg);
 background-size: cover;
 height: 30%;
 border-top-left-radius: 15px;
@@ -155,7 +155,7 @@ height: 60vh;
 
 
 .img {
-background: url(/images/image-header-mobile.jpg);
+background: url(images/image-header-mobile.jpg);
 background-size: cover;
 height: 100%;
 width: 50%;
